@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717734605078",
+    "project_id": "fir-practice-7c9b1",
+    "storage_bucket": "fir-practice-7c9b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717734605078:android:b0cc582df6bdb0825a2037",
+        "android_client_info": {
+          "package_name": "com.example.firebase_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeo5QWxA4apgm4XWdobJWZynCSf-e5xN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717734605078:android:6c9a038b32bc7a445a2037",
+        "android_client_info": {
+          "package_name": "com.example.firebase_practice_personality"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeo5QWxA4apgm4XWdobJWZynCSf-e5xN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
